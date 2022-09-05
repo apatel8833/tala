@@ -1718,13 +1718,13 @@ input{
     .pehla>h1:nth-child(1){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         color: white;
         font-weight: bold;
     }
     .pehla>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 25%;
         -webkit-text-stroke: 2px white;
@@ -1734,14 +1734,14 @@ input{
     .pehla>h1:nth-child(3){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         color: white;
         font-weight: bold;
     }
     .pehla>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 75%;
         -webkit-text-stroke: 2px white;
@@ -1751,13 +1751,13 @@ input{
     .pehla>h1:nth-child(1){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         color: white;
         font-weight: bold;
     }
     .pehla>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 25%;
         -webkit-text-stroke: 2px white;
@@ -1767,14 +1767,14 @@ input{
     .pehla>h1:nth-child(3){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         color: white;
         font-weight: bold;
     }
     .pehla>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 75%;
         -webkit-text-stroke: 2px white;
@@ -1785,13 +1785,13 @@ input{
     .pehla1>h1:nth-child(1){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         color: white;
         font-weight: bold;
     }
     .pehla1>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 25%;
         -webkit-text-stroke: 2px white;
@@ -1801,14 +1801,14 @@ input{
     .pehla1>h1:nth-child(3){
         position: absolute;
         top: 0%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         color: white;
         font-weight: bold;
     }
     .pehla1>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: 0%;
         left: 75%;
         -webkit-text-stroke: 2px white;
@@ -1818,14 +1818,14 @@ input{
     .dusra>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         font-weight: bold;
         -webkit-text-stroke: 2px white;
         color: transparent;
     }
     .dusra>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
         color: white;
@@ -1834,7 +1834,7 @@ input{
     .dusra>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         -webkit-text-stroke: 2px white;
         color: transparent;
         left: 50%;
@@ -1842,7 +1842,7 @@ input{
     }
     .dusra>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         color: white;
         left: 75%;
@@ -1850,7 +1850,7 @@ input{
     .dusra1>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         font-weight: bold;
         -webkit-text-stroke: 2px white;
         color: transparent;
@@ -1858,7 +1858,7 @@ input{
     .dusra1>h1:nth-child(2){
         position: absolute;
         color: white;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
     }
@@ -1866,7 +1866,7 @@ input{
     .dusra1>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         -webkit-text-stroke: 2px white;
         color: transparent;
@@ -1875,7 +1875,7 @@ input{
     .dusra1>h1:nth-child(4){
         position: absolute;
         color: white;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 75%;
     }
@@ -1884,13 +1884,13 @@ input{
     .tisra>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         color: white;
         font-weight: bold;
     }
     .tisra>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
         -webkit-text-stroke: 2px white;
@@ -1900,14 +1900,14 @@ input{
     .tisra>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         color: white;
         font-weight: bold;
     }
     .tisra>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 75%;
         -webkit-text-stroke: 2px white;
@@ -1917,13 +1917,13 @@ input{
     .tisra1>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         color: white;
         font-weight: bold;
     }
     .tisra1>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
         -webkit-text-stroke: 2px white;
@@ -1933,14 +1933,14 @@ input{
     .tisra1>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         color: white;
         font-weight: bold;
     }
     .tisra1>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 75%;
         -webkit-text-stroke: 2px white;
@@ -1950,14 +1950,14 @@ input{
     .chotha>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         -webkit-text-stroke: 2px white;
         color: transparent;
         font-weight: bold;
     }
     .chotha>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
         color: white;
@@ -1966,7 +1966,7 @@ input{
     .chotha>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         font-weight: bold;
         -webkit-text-stroke: 2px white;
@@ -1974,7 +1974,7 @@ input{
     }
     .chotha>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 75%;
         color: white;
@@ -1982,14 +1982,14 @@ input{
     .chotha1>h1:nth-child(1){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         -webkit-text-stroke: 2px white;
         color: transparent;
         font-weight: bold;
     }
     .chotha1>h1:nth-child(2){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 25%;
         color: white;
@@ -1998,7 +1998,7 @@ input{
     .chotha1>h1:nth-child(3){
         position: absolute;
         top: -20%;
-        font-size: 70px;
+        font-size: 60px;
         left: 50%;
         font-weight: bold;
         -webkit-text-stroke: 2px white;
@@ -2006,7 +2006,7 @@ input{
     }
     .chotha1>h1:nth-child(4){
         position: absolute;
-        font-size: 70px;
+        font-size: 60px;
         top: -20%;
         left: 75%;
         color: white;
@@ -2120,13 +2120,13 @@ input{
     }
     .mg1{
         position: absolute;
-        left: 12%;
+        left: 6%;
         top: 30%;
         transition: all .2s linear;
     }
     .mg2{
         position: absolute;
-        left: 26%;
+        left: 20%;
         height: 240px;
         width: 120px;
         top: 27%;
@@ -2134,21 +2134,21 @@ input{
     }
     .mg3{
         position: absolute;
-        left: 42%;
+        left: 36%;
         height: 280px;
         width: 140px;
         top: 24%;
     }
     .mg4{
         position: absolute;
-        left: 59.5%;
+        left: 53.5%;
         height: 240px;
         width: 120px;
         top: 27%;
     }
     .mg5{
         position: absolute;
-        left: 75.5%;
+        left: 69.5%;
         height: 200px;
         width: 100px;
         top: 30%;
